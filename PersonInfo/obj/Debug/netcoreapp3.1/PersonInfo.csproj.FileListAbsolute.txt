@@ -1,0 +1,14 @@
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\MiroAndStani\source\repos\InterfacesandAbstraction.Ex\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
